@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md. Faisal Hoque Rifat</h1>
+<h1 align="center">Hi 👋, I'm Md Faisal Hoque Rifat</h1>
 <h3 align="center">Sure, here's a GitHub README subtitle that highlights your skills: Competitive Programming | MERN Web Development | C | C++ | Python | Javascript | HTML | CSS | Tailwind | PostgreSQL | MongoDB | React | Node | Express |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faisalhoquerifat&label=Profile%20views&color=0e75b6&style=flat" alt="faisalhoquerifat" /> </p>
